@@ -1,0 +1,14 @@
+.DS_Store
+**/.DS_Store
+
+# Java / Maven
+**/target/
+*.class
+
+# Node / React
+**/node_modules/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
